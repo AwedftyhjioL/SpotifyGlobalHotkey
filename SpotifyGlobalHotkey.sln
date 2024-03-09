@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyGlobalHotkey", "SpotifyGlobalHotkey\SpotifyGlobalHotkey.csproj", "{8EC4638A-7F4F-429C-A6EA-6895413C7830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC4638A-7F4F-429C-A6EA-6895413C7830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC4638A-7F4F-429C-A6EA-6895413C7830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC4638A-7F4F-429C-A6EA-6895413C7830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC4638A-7F4F-429C-A6EA-6895413C7830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E78233-E0B8-4F1F-B316-D104E0EFFC8D}
+	EndGlobalSection
+EndGlobal
